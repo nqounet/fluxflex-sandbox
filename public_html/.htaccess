@@ -1,2 +1,2 @@
 Options All
-DirectoryIndex dispatch.fcgi index.html
+DirectoryIndex index.cgi dispatch.fcgi index.html
