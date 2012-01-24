@@ -1,4 +1,4 @@
-#!/usr/bin/env perl
+#!/usr/bin/perl
 use 5.12.1;
 
 use CGI::Carp qw(fatalsToBrowser);
